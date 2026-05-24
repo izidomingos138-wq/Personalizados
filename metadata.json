@@ -1,0 +1,6 @@
+{
+  "name": "ID Personalizados Shop",
+  "description": "Loja online moderna de personalizados e papelaria criativa com catálogo completo, Pix integrado e painel administrativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
